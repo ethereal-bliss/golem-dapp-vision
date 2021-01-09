@@ -1,0 +1,26 @@
+html, body {
+	background: #000 !important;
+	color: #fff !important;
+	text-align: center;
+}
+
+#disclaimer {
+	width: 45em;
+	margin: 5em auto;
+	line-height: 2.2;
+	font-size: 1.5em;
+	color: #fff !important;
+	z-index: 3 !important;
+}
+
+#confirm-btn {
+	z-index: 10 !important;
+}
+
+#text {
+	z-index: 10!important;
+}
+
+#content {
+	z-index: 10!important;
+}
